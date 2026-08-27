@@ -1,0 +1,9 @@
+# runtime workdir / downloaded distribution / build artifacts (never committed)
+/tmp/
+*.class
+*.png
+*.jar
+*.log
+*.result
+batik-1.19/
+batik-bin-1.19.tar.gz
